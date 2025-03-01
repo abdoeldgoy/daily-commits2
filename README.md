@@ -1,1 +1,1 @@
-"# Daily Commits 2" 
+"# daily-commits2" 
